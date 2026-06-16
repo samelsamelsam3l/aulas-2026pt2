@@ -1,5 +1,7 @@
-# aulas-2026pt2
+# aulas2026
 
-12/05 - Aula 01
-19/05 - Aula 02
-26/05 - Aula 03
+12/05 -aula 1
+
+19/05 -aula 2
+
+26/05 -aula 3

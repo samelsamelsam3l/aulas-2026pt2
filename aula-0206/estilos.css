@@ -1,0 +1,17 @@
+#titulo-principal {
+  color: red;
+  background-color: black;
+}
+#paragraf1 {
+  color: green;
+}
+#paragraf2 {
+  color: rgb(13, 58, 13);
+}
+#paragraf3 {
+  color: greenyellow;
+}
+.paragrafo {
+  text-align: justify;
+  background-color: beige;
+}
